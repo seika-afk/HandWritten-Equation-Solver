@@ -4,6 +4,12 @@ This repository contains a Jupyter notebook focused on the initial data preparat
 
 **Note:** This project is currently a work in progress. This notebook covers the data ingestion and feature engineering phase, and further development will include model training and the full equation solving functionality.
 
+## Demo :
+
+<img width="1046" height="595" alt="image" src="https://github.com/user-attachments/assets/02665ce2-5aa8-430f-91cc-c299430d7863" />
+
+
+
 ## Table of Contents
 
 - [Project Title](#project-title)
